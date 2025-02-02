@@ -67,16 +67,16 @@ This project follows an Agile methodology with sprints, epics, and user stories 
 Below are the wireframes for the key pages of the application:
 
 1. **Homepage**: Displays posts with filters for location and difficulty.
-   ![Homepage Wireframe](assets/homepage-wireframe.png)
+   ![Homepage Wireframe]()
 
 2. **Post Details Page**: Shows post content, comments, and voting buttons.
-   ![Post Details Wireframe](assets/post-details-wireframe.png)
+   ![Post Details Wireframe]()
 
 3. **Create Post Page**: Form for adding a new post with title, content, and optional image.
-   ![Create Post Wireframe](assets/create-post-wireframe.png)
+   ![Create Post Wireframe]()
 
 4. **Profile Page**: Displays user information and a list of authored posts.
-   ![Profile Page Wireframe](assets/profile-wireframe.png)
+   ![Profile Page Wireframe]()
 
 ---
 
